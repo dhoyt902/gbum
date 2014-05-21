@@ -4,3 +4,15 @@ import os
 import sys
 import datetime
 
+
+class DataOrg():
+
+
+class Identifier():
+
+
+class Backup():
+
+
+class Collector():
+
